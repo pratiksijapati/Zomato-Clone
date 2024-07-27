@@ -6,7 +6,7 @@
 .back-image{
     height: 430px;
     width: 1600px;
-    background-image: url("/images/back-img.avif");
+    background-image: url("images/back-img.avif");
     background-size: cover;
 }
 .nav-bar{
@@ -99,7 +99,7 @@
     margin-left: 300px;
 }
 .img{
-    background-image: url("/images/body-img.avif");
+    background-image: url("images/body-img.avif");
     background-size: contain;
     height: 200px;
     width: 600px;
@@ -124,7 +124,7 @@ p{
     display: flex;
 }
 .phone{
-    background-image: url("/images/phone.avif");
+    background-image: url("images/phone.avif");
     height: 300px;
     width: 35%;
 }
@@ -168,13 +168,13 @@ p{
     align-items: center;
 }
 .googlepay{
-    background-image: url("/images/googlwpay.webp");
+    background-image: url("images/googlwpay.webp");
     height: 50px;
     width: 35%;
     background-size: cover;
 }
 .appstore{
-    background-image: url("/images/appstore.webp");
+    background-image: url("images/appstore.webp");
     height: 50px;
     width: 35%;
     background-size: cover;

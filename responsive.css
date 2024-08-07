@@ -1,0 +1,46 @@
+@media (max-width: 600px){
+    .back-image {
+    height: 1000px;
+    width: 1565px;
+}
+.nav-head {
+    font-size: 30px;
+}
+.get-app {
+    width: 200px;
+    font-size: 30px;
+}
+.zomato {
+    font-size: 70px;
+    margin-top: 400px;
+}
+.quote{
+    font-size: 60px;
+}
+.input {
+    height: 70px;
+    font-size: 40px;
+
+}
+.search select{
+    height: 70px;
+    font-size: 40px;
+    width: 200px;
+}
+.icon {
+    font-size: 40px;
+    height: 70px;
+    width: 50px;
+ 
+}
+.img {
+    height: 500px;
+}
+.signapp{
+    margin-top: 350px;
+}
+.remain-contain{
+    margin-left: 50px;
+    height: 400px;
+}
+}
